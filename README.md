@@ -3,6 +3,6 @@
 > 使用方法:  
 > 下载后解压zip：  
 ![下载](https://github.com/Mr-xn/zhihuishu/blob/master/images/download.png) 
-> 如图一和图二  
+> 然后操作如图一和图二在开发者模式下添加解压后的插件包即可    
 ![步骤一](https://github.com/Mr-xn/zhihuishu/blob/master/images/step1.png) 
 ![步骤二](https://github.com/Mr-xn/zhihuishu/blob/master/images/step2.png)
